@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.27)  23 JUL 2024 17:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.27)  23 JUL 2024 21:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1274,9 +1274,12 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [11]
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
 File: logo.png Graphic file (type bmp)
 <logo.png>
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1290,10 +1293,10 @@ Package rerunfilecheck Info: File `河北建筑工程学院新生指南.out' has
 (rerunfilecheck)             Checksum: 10A20C6FA017D4E1A914030F8EB83DF1;1343.
  ) 
 Here is how much of TeX's memory you used:
- 29929 strings out of 476683
- 666285 string characters out of 5807575
- 1862012 words of memory out of 5000000
- 49681 multiletter control sequences out of 15000+600000
+ 29977 strings out of 476683
+ 669191 string characters out of 5807575
+ 1863012 words of memory out of 5000000
+ 49729 multiletter control sequences out of 15000+600000
  520312 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,97p,463b,745s stack positions out of 10000i,1000n,20000p,200000b,200000s
