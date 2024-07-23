@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}“写在河北建筑大学前”}{3}{section.1}%
+\contentsline {section}{\numberline {2}基本环境介绍}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}宿舍}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}快递}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}澡堂}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}食堂}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}教学楼}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}图书馆}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}各院系楼}{7}{subsection.2.7}%
+\contentsline {section}{\numberline {3}入学规划}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}概况}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}学校各组织的基本情况}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}大学可以做什么}{8}{subsection.3.3}%
+\contentsline {section}{\numberline {4}新生群常见问题解答}{10}{section.4}%
+\contentsline {section}{\numberline {5}附录}{11}{section.5}%
