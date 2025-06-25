@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.27)  23 JUL 2024 21:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.27)  25 JUN 2025 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1066,37 +1066,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+File: 20256252.jpg Graphic file (type bmp)
+<20256252.jpg>
+File: 2025625.jpg Graphic file (type bmp)
+<2025625.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
-
- []
-
-File: 20240717155725.jpg Graphic file (type bmp)
-<20240717155725.jpg>
 File: logo.png Graphic file (type bmp)
 <logo.png>
 
@@ -1105,17 +1088,59 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [4]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+File: 20240717155725.jpg Graphic file (type bmp)
+<20240717155725.jpg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: 202407251.jpg Graphic file (type bmp)
+<202407251.jpg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 File: 20240717154657.png Graphic file (type bmp)
 <20240717154657.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: logo.png Graphic file (type bmp)
 <logo.png>
@@ -1125,39 +1150,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-
- []
-
-File: 20240717163012.jpg Graphic file (type bmp)
-<20240717163012.jpg>
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--170
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
@@ -1169,12 +1162,35 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 177--178
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
-File: 202444.jpg Graphic file (type bmp)
-<202444.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+File: 20240717163012.jpg Graphic file (type bmp)
+<20240717163012.jpg>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
 File: logo.png Graphic file (type bmp)
 <logo.png>
 
@@ -1183,6 +1199,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [7]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 217--218
 
  []
@@ -1192,50 +1223,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
 
+File: 202444.jpg Graphic file (type bmp)
+<202444.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
- []
+File: 20247252.jpg Graphic file (type bmp)
+<20247252.jpg>
 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+File: 20247253.jpg Graphic file (type bmp)
+<20247253.jpg>
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--242
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
-
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: logo.png Graphic file (type bmp)
 <logo.png>
@@ -1263,18 +1264,52 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [10]
-File: map.jpg Graphic file (type bmp)
-<map.jpg>
-File: logo.png Graphic file (type bmp)
-<logo.png>
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
 
 
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
 
  []
 
@@ -1285,20 +1320,98 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
-[12] (./河北建筑工程学院新生指南.aux)
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[12]
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[13]
+File: mingdan.jpg Graphic file (type bmp)
+<mingdan.jpg>
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[14]
+File: map.jpg Graphic file (type bmp)
+<map.jpg>
+File: 2024072555.jpg Graphic file (type bmp)
+<2024072555.jpg>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[15]
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[17]
+File: logo.png Graphic file (type bmp)
+<logo.png>
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[18] (./河北建筑工程学院新生指南.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `河北建筑工程学院新生指南.out' has not changed.
-(rerunfilecheck)             Checksum: 10A20C6FA017D4E1A914030F8EB83DF1;1343.
+(rerunfilecheck)             Checksum: 4D513A57A3E84A8145E958DC50389695;2023.
  ) 
 Here is how much of TeX's memory you used:
- 29977 strings out of 476683
- 669191 string characters out of 5807575
+ 30033 strings out of 476683
+ 670050 string characters out of 5807575
  1863012 words of memory out of 5000000
- 49729 multiletter control sequences out of 15000+600000
- 520312 words of font info for 81 fonts, out of 8000000 for 9000
+ 49779 multiletter control sequences out of 15000+600000
+ 520304 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,97p,463b,745s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 河北建筑工程学院新生指南.pdf (12 pages).
+Output written on 河北建筑工程学院新生指南.pdf (18 pages).
