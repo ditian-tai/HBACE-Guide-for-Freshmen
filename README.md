@@ -1,6 +1,5 @@
 # 2026河北建筑工程学院新生指南 点击pdf可直接下载查看
 
-A guide for new students of Hebei Institute of Civil Engineering and Architecture
 本文档使用LaTex编
 
 ## 招募河北建筑工程学院新生指南文档建设者
